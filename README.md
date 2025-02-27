@@ -7,3 +7,4 @@ It includes three main classes:
 - `UserService` – Manages users, including adding, updating, and deleting.  
 - `UserUtil` – Provides utility functions for user data generation and validation.  
 
+![Alt Text](https://github.com/vhenewer/User-Class-Methods/blob/main/uml_diagram.png)
